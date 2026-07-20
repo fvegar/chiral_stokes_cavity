@@ -1,1 +1,1 @@
-# Code for Chiral Stokes Cavity figurs
+# Code for Chiral Stokes Cavity figures
